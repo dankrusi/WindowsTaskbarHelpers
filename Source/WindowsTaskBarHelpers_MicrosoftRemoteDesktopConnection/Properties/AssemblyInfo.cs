@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Windows Taskbar Helpers: Notepad")]
+[assembly: AssemblyTitle("Windows Taskbar Helpers: Microsoft Remote Desktop Connection")]
 [assembly: AssemblyDescription("https://github.com/dankrusi/WindowsTaskbarHelpers")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dan Krusi / dankrusi.com")]
-[assembly: AssemblyProduct("WindowsTaskBarHelpers_Notepad")]
+[assembly: AssemblyProduct("WindowsTaskBarHelpers_MicrosoftRemoteDesktopConnection")]
 [assembly: AssemblyCopyright("Copyright © 2024 Dan Krusi")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -12,6 +12,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{A923F7
 		Source\README.md = Source\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Downloads", "Source\WindowsTaskbarHelpers_Downloads\WindowsTaskbarHelpers_Downloads.csproj", "{50B9247D-075B-41DD-81C0-C13D1F570B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskBarHelpers_WindowsTerminal", "Source\WindowsTaskBarHelpers_WindowsTerminal\WindowsTaskBarHelpers_WindowsTerminal.csproj", "{36E62864-DE27-4BFA-9FB3-388D408C6032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftEdge", "Source\WindowsTaskBarHelpers_MicrosoftEdge\WindowsTaskbarHelpers_MicrosoftEdge.csproj", "{36E62864-DE27-4BFA-9FB3-388D408C2062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_GoogleChrome", "Source\WindowsTaskBarHelpers_GoogleChrome\WindowsTaskbarHelpers_GoogleChrome.csproj", "{36E62864-DE27-4BFA-1FC3-388D408C6062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Custom", "Source\WindowsTaskBarHelpers_Custom\WindowsTaskbarHelpers_Custom.csproj", "{36E62864-DE27-4BFA-1FB1-188D408C6062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftVisualStudio2019", "Source\WindowsTaskBarHelpers_MicrosoftVisualStudio2019\WindowsTaskbarHelpers_MicrosoftVisualStudio2019.csproj", "{36E62864-DE27-6BFA-9FB6-168D408C2061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftVisualStudio2022", "Source\WindowsTaskBarHelpers_MicrosoftVisualStudio2022\WindowsTaskbarHelpers_MicrosoftVisualStudio2022.csproj", "{36E62864-DE27-6BFA-9FB6-368D408C2062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftRemoteDesktopConnection", "Source\WindowsTaskBarHelpers_MicrosoftRemoteDesktopConnection\WindowsTaskbarHelpers_MicrosoftRemoteDesktopConnection.csproj", "{36E62864-DE17-6BFA-9FB6-268D408C2061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_SpacerDashBlack", "Source\WindowsTaskBarHelpers_SpacerDashBlack\WindowsTaskbarHelpers_SpacerDashBlack.csproj", "{36E62864-DE27-4BFA-1FB1-122D408C6011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_SpacerDashWhite", "Source\WindowsTaskBarHelpers_SpacerDashWhite\WindowsTaskbarHelpers_SpacerDashWhite.csproj", "{36E62864-DE27-4BFA-1FB1-122D408C6062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_SpacerEmpty", "Source\WindowsTaskBarHelpers_SpacerEmpty\WindowsTaskbarHelpers_SpacerEmpty.csproj", "{36E62864-DE27-4BFA-1FB1-156B408C6011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +48,50 @@ Global
 		{36E62864-DE27-4BFA-9FB3-388D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36E62864-DE27-4BFA-9FB3-388D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36E62864-DE27-4BFA-9FB3-388D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B9247D-075B-41DD-81C0-C13D1F570B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B9247D-075B-41DD-81C0-C13D1F570B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B9247D-075B-41DD-81C0-C13D1F570B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B9247D-075B-41DD-81C0-C13D1F570B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C6032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C6032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C6032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C6032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C2062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C2062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C2062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-9FB3-388D408C2062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-1FC3-388D408C6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FC3-388D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FC3-388D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-1FC3-388D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-188D408C6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-188D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-188D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-188D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-168D408C2061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-168D408C2061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-168D408C2061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-168D408C2061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE17-6BFA-9FB6-268D408C2061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE17-6BFA-9FB6-268D408C2061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE17-6BFA-9FB6-268D408C2061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE17-6BFA-9FB6-268D408C2061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-122D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

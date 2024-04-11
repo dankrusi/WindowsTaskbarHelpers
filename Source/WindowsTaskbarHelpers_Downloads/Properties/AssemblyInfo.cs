@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Windows Taskbar Helpers: Notepad")]
-[assembly: AssemblyDescription("https://github.com/dankrusi/WindowsTaskbarHelpers")]
+[assembly: AssemblyTitle("Windows Taskbar Helpers: Downloads")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dan Krusi / dankrusi.com")]
-[assembly: AssemblyProduct("WindowsTaskBarHelpers_Notepad")]
-[assembly: AssemblyCopyright("Copyright © 2024 Dan Krusi")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("WindowsTaskbarHelpers_Downloads")]
+[assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("36e62864-de27-4bfa-9fb3-388d408c6062")]
+[assembly: Guid("50b9247d-075b-41dd-81c0-b13d3f570b36")]
 
 // Version information for an assembly consists of the following four values:
 //

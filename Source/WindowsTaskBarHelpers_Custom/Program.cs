@@ -16,10 +16,11 @@ namespace WindowsTaskbarHelpers_Notepad
         static void Main()
         {
             // Get arguments
-            var args = Environment.GetCommandLineArgs().Skip(1);
+            var app = Environment.GetCommandLineArgs().Skip(1).Take(1).Single();
+            var args = Environment.GetCommandLineArgs().Skip(2);
 
             // Open program
-            Process.Start("notepad.exe", string.Join(" ", args));
+            Process.Start(app, string.Join(" ", args));
         }
     }
 }

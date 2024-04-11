@@ -19,7 +19,8 @@ namespace WindowsTaskbarHelpers_Notepad
             var args = Environment.GetCommandLineArgs().Skip(1);
 
             // Open program
-            Process.Start("notepad.exe", string.Join(" ", args));
+            //TODO: use vswhere.exe https://stackoverflow.com/questions/847048/finding-the-path-where-visual-studio-is-installed
+            Process.Start("C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe", string.Join(" ", args));
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Windows Taskbar Helpers: Notepad")]
+[assembly: AssemblyTitle("Windows Taskbar Helpers: Windows Terminal")]
 [assembly: AssemblyDescription("https://github.com/dankrusi/WindowsTaskbarHelpers")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dan Krusi / dankrusi.com")]
