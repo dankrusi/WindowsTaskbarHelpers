@@ -14,7 +14,7 @@ A free utility to make the Windows 11 Taskbar just a little bit more useful by a
 
 ## Demo Video
 
-![Screenshot](Images/WindowsTaskbarHelpers_DemoShort.gif)
+![Screenshot](Images/WindowsTaskbarHelpers_Demo.gif)
 
 ## Getting Started
 
