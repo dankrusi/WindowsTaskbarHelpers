@@ -33,7 +33,7 @@ TODO
 
 Do you like Windows Taskbar Helpers? 
 
-[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=BG5FYMAHFG9V6)
+[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=G9HEATE3ZQBCA)
 
 ## Why Windows Taskbar Helpers?
 
