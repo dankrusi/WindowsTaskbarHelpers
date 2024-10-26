@@ -8,6 +8,11 @@
  - Install IconView from https://www.botproductions.com/iconview/download.html
  - Open %SystemRoot%\System32, right click SHELL32.dll and go to Properties > Icons, save
 
+## Extract Icons from imageres.dll
+
+ - Install IconView from https://www.botproductions.com/iconview/download.html
+ - Open %SystemRoot%\System32, right click imageres.dll and go to Properties > Icons, save
+
 ## Add new Helper Project
 
  - Add a new "Windows Forms App (.NET Framework)" with the name WindowsTaskbarHelpers_XYZ 
