@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32407.337
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Explorer", "Source\WindowsTaskbarHelpers_Explorer\WindowsTaskbarHelpers_Explorer.csproj", "{50B9247D-075B-41DD-81C0-B13D3F570B36}"
 EndProject
@@ -33,6 +33,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_SpacerDashWhite", "Source\WindowsTaskBarHelpers_SpacerDashWhite\WindowsTaskbarHelpers_SpacerDashWhite.csproj", "{36E62864-DE27-4BFA-1FB1-122D408C6062}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_SpacerEmpty", "Source\WindowsTaskBarHelpers_SpacerEmpty\WindowsTaskbarHelpers_SpacerEmpty.csproj", "{36E62864-DE27-4BFA-1FB1-156B408C6011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftWord", "Source\WindowsTaskBarHelpers_MicrosoftWord\WindowsTaskbarHelpers_MicrosoftWord.csproj", "{5DC9B762-5A13-410A-B84D-672E73D59AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftExcel", "Source\WindowsTaskBarHelpers_MicrosoftExcel\WindowsTaskbarHelpers_MicrosoftExcel.csproj", "{BCF37815-4652-4AF9-BCED-5150AAC07976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftOutlook", "Source\WindowsTaskBarHelpers_MicrosoftOutlook\WindowsTaskbarHelpers_MicrosoftOutlook.csproj", "{2F079027-794B-4004-95D4-2BDF89CE8AFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +98,18 @@ Global
 		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36E62864-DE27-4BFA-1FB1-156B408C6011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC9B762-5A13-410A-B84D-672E73D59AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC9B762-5A13-410A-B84D-672E73D59AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC9B762-5A13-410A-B84D-672E73D59AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC9B762-5A13-410A-B84D-672E73D59AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF37815-4652-4AF9-BCED-5150AAC07976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF37815-4652-4AF9-BCED-5150AAC07976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF37815-4652-4AF9-BCED-5150AAC07976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF37815-4652-4AF9-BCED-5150AAC07976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
