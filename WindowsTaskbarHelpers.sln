@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Micro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftOutlook", "Source\WindowsTaskBarHelpers_MicrosoftOutlook\WindowsTaskbarHelpers_MicrosoftOutlook.csproj", "{2F079027-794B-4004-95D4-2BDF89CE8AFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftOutlookNew", "Source\WindowsTaskBarHelpers_MicrosoftOutlookNew\WindowsTaskbarHelpers_MicrosoftOutlookNew.csproj", "{1F079027-794B-4004-95D4-2BDF89CE8AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Notepad2e", "Source\WindowsTaskBarHelpers_Notepad2e\WindowsTaskbarHelpers_Notepad2e.csproj", "{36E62864-DE27-2BF1-9FB3-388D408C6062}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +114,14 @@ Global
 		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F079027-794B-4004-95D4-2BDF89CE8AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F079027-794B-4004-95D4-2BDF89CE8AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F079027-794B-4004-95D4-2BDF89CE8AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F079027-794B-4004-95D4-2BDF89CE8AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F079027-794B-4004-95D4-2BDF89CE8AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

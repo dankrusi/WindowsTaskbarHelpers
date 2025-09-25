@@ -19,7 +19,7 @@ namespace WindowsTaskbarHelpers_Notepad
             var args = Environment.GetCommandLineArgs().Skip(1);
 
             // Open program
-            Process.Start("EXCEL.EXE", string.Join(" ", args));
+            Process.Start("notepad2.exe", string.Join(" ", args));
         }
     }
 }
