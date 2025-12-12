@@ -15,6 +15,27 @@ namespace WindowsTaskbarHelpers_Notepad
         [STAThread]
         static void Main()
         {
+            // Check if shift key is pressed
+            if (Control.ModifierKeys == Keys.Shift) { 
+                // Elevate as admin
+                var processInfo = new ProcessStartInfo {
+                    UseShellExecute = true,
+                    WorkingDirectory = Environment.CurrentDirectory,
+                    FileName = Application.ExecutablePath,
+                    Arguments = string.Join(" ", Environment.GetCommandLineArgs().Skip(1)),
+                    Verb = "runas"
+                };
+                try {
+                    Process.Start(processInfo);
+                }
+                catch (Exception) {
+                    // The user refused to allow privileges elevation.
+                    // Do nothing and return directly ...
+                    return;
+                }
+                return;
+            }
+
             // Get arguments
             var args = Environment.GetCommandLineArgs().Skip(1);
 

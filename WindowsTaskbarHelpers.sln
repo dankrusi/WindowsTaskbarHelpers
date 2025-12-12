@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11304.174 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Explorer", "Source\WindowsTaskbarHelpers_Explorer\WindowsTaskbarHelpers_Explorer.csproj", "{50B9247D-075B-41DD-81C0-B13D3F570B36}"
 EndProject
@@ -43,6 +43,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftOutlookNew", "Source\WindowsTaskBarHelpers_MicrosoftOutlookNew\WindowsTaskbarHelpers_MicrosoftOutlookNew.csproj", "{1F079027-794B-4004-95D4-2BDF89CE8AF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Notepad2e", "Source\WindowsTaskBarHelpers_Notepad2e\WindowsTaskbarHelpers_Notepad2e.csproj", "{36E62864-DE27-2BF1-9FB3-388D408C6062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_FilePilot", "Source\WindowsTaskbarHelpers_FilePilot\WindowsTaskbarHelpers_FilePilot.csproj", "{50B9247D-075B-41DD-81C0-B13D3F570B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_MicrosoftVisualStudio2026", "Source\WindowsTaskBarHelpers_MicrosoftVisualStudio2026\WindowsTaskbarHelpers_MicrosoftVisualStudio2026.csproj", "{36E62864-DE27-6BFA-9FB6-368D408C2011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -122,6 +126,14 @@ Global
 		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36E62864-DE27-2BF1-9FB3-388D408C6062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B9247D-075B-41DD-81C0-B13D3F570B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B9247D-075B-41DD-81C0-B13D3F570B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B9247D-075B-41DD-81C0-B13D3F570B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B9247D-075B-41DD-81C0-B13D3F570B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E62864-DE27-6BFA-9FB6-368D408C2011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
