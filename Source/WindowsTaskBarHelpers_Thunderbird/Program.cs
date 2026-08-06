@@ -13,9 +13,13 @@ namespace WindowsTaskbarHelpers_Thunderbird
         static void Main()
         {
             // Get arguments
-            var args = Environment.GetCommandLineArgs().Skip(1);
+            var args = new[]
+            {
+                "--chrome",
+                "chrome://messenger/content/messenger.xhtml"
+            }.Concat(Environment.GetCommandLineArgs().Skip(1));
 
-            // Open Thunderbird
+            // Open a new Thunderbird window
             Process.Start("thunderbird.exe", string.Join(" ", args));
         }
     }
