@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Thund
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Zed", "Source\WindowsTaskBarHelpers_Zed\WindowsTaskbarHelpers_Zed.csproj", "{228291B8-1506-440C-A646-BAB1646B3688}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTaskbarHelpers_Scratchpad", "Source\WindowsTaskBarHelpers_Scratchpad\WindowsTaskbarHelpers_Scratchpad.csproj", "{C608E5D8-701C-41CB-98DA-EE3AA87E1801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -146,6 +148,10 @@ Global
 		{228291B8-1506-440C-A646-BAB1646B3688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228291B8-1506-440C-A646-BAB1646B3688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228291B8-1506-440C-A646-BAB1646B3688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C608E5D8-701C-41CB-98DA-EE3AA87E1801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C608E5D8-701C-41CB-98DA-EE3AA87E1801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C608E5D8-701C-41CB-98DA-EE3AA87E1801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C608E5D8-701C-41CB-98DA-EE3AA87E1801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
